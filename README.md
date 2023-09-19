@@ -18,10 +18,10 @@ Tim
 
 Some of my hobbies include:
 ```
-Baseball
-The gym
-Playing Xbox
-Coding
-Watching Sports
+-Baseball
+*The gym
++Playing Xbox
+-Coding
+*Watching Sports
 ```
-`#RRGGBB`
+
